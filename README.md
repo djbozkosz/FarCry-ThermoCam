@@ -2,7 +2,7 @@
 Simple mod for first Far Cry game which turns your CryVision into Thermographic camera.
 
 ## Install
-Paste shader file `ShadersThermoCam.pak` into: `Far Cry/FCData`.
+Paste cry archive `ShadersThermoCam.pak` into: `Far Cry/FCData`.
 
 ## Images
 <img src="https://s31.postimg.org/n2os5nv8b/Far_Cry_2016_06_27_09_59_23_83.jpg" alt="Image">
